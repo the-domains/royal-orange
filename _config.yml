@@ -1,0 +1,14 @@
+layout_spectrum: 0.6651523057371378
+typography_spectrum: 0.673169689020142
+color:
+  brandStrength: 0.19897907902486622
+  lightness: 0.6974113187752664
+  saturation: 0.2299972518812865
+  rhythmicContrast: 0.014838961185887456
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: Royal Orange
